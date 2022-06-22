@@ -13,6 +13,7 @@
 	background-color: #0009;
 	background-blend-mode: overlay;
 	background-attachment: fixed;
+	font-size: 10vw;
 }
 
 .next-header {
@@ -124,4 +125,5 @@
 	background-color: #0009;
 	background-blend-mode: overlay;
 	background-attachment: fixed;
+	font-size: 10vw;
 }
