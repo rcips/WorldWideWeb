@@ -1,0 +1,17 @@
+/** @format */
+
+$primary: #900020;
+$secondary: #fae8e0;
+$h1-bg: grey;
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-theme-colors: (
+	"background": grey,
+	"header": darkblue,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-theme-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap";

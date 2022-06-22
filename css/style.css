@@ -1,0 +1,127 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+
+#hero {
+	padding: 150px 0;
+	background-image: url(../image/683980.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #0009;
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+}
+
+.next-header {
+	font-family: league spartan !important;
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+.p-text {
+	font-family: league spartan;
+	font-size: 19px;
+}
+
+.help-line {
+	padding: 50px 0 !important;
+	margin-top: 10px;
+	background-image: url(../image/coding.jpg) !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-color: #0009;
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+	font-family: league spartan !important;
+	font-size: 6vw;
+}
+.ptext2 {
+	font-family: "Raleway", sans-serif;
+	font-size: 3vw;
+}
+
+.ptext {
+	font-family: league spartan;
+	font-size: 19px;
+}
+
+.column-area {
+	font-family: league spartan;
+	font-size: 20px;
+	padding-top: 10%;
+}
+
+.footer {
+	background-color: rgba(0, 0, 0, 0.877);
+}
+
+.footer ul a {
+	color: white;
+	text-decoration: none;
+}
+
+.footer ul a:hover {
+	color: #210bee;
+	border-bottom: 2px solid #fae8e0;
+}
+.footer {
+	padding: 20px 0;
+	margin-top: 10vh;
+}
+
+.footer ul,
+.social {
+	text-align: center;
+}
+
+.footer li {
+	padding: 0 12px;
+}
+
+.social i {
+	font-size: 30px;
+	margin: 0 10px;
+	color: #f4f0f4;
+}
+
+.social .bi-facebook:hover {
+	color: #1887f2;
+}
+
+.social .bi-instagram:hover {
+	color: #c32aa3;
+}
+
+.social .bi-twitter:hover {
+	color: #1da1f2;
+}
+
+.social .bi-github:hover {
+	color: #ff2052;
+}
+
+.social .bi-google:hover {
+	color: #4285f4;
+}
+
+.madeby {
+	margin-top: 15px;
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 0;
+	color: #f4f0f4;
+}
+#hypertext {
+	padding: 150px 0;
+	background-image: url(../image/hypertext.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #0009;
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+}
